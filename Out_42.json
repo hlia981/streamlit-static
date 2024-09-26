@@ -1,0 +1,233 @@
+[
+  {
+    "": "0",
+    "question": "What is the recovery time?",
+    "context": "[Everyone heals from their surgery at a different pace. In most cases however you will be restricted to using a walker or crutches for between 1 to 4 weeks. You will then be allowed to advance to a cane outdoors and no support around the house for several weeks. You will gradually return to normal function without any assistive devices. You will use an assistive device until you can walk without a limp. This usually takes about 3 months.]",
+    "answer": "The recovery time typically involves using a walker or crutches for 1 to 4 weeks, advancing to a cane and then no support after several weeks. Full recovery usually takes about 3 months.",
+    "LLM_answer": "Could you please provide more details about the specific procedure or condition you are referring to? This will help me give you a more accurate answer."
+  },
+  {
+    "": "1",
+    "question": "What is a dislocation of the hip?",
+    "context": "[A dislocation of the hip occurs when the femoral head (ball) comes out of the acetabulum (socket). While this risk is very small typically less than 1% we will ask you to avoid extremes of motion at the hip.]",
+    "answer": "A dislocation occurs when the femoral head comes out of the acetabulum socket. The risk is typically less than 1%, but patients are advised to avoid extreme motions.",
+    "LLM_answer": "A dislocation of the hip occurs when the head of the femur (thigh bone) is forced out of its socket in the pelvic bone. This can result in severe pain, an obvious leg length discrepancy, and the leg may appear rotated compared to the non-injured leg. It often requires immediate medical attention to reposition the joint and prevent further complications."
+  },
+  {
+    "": "2",
+    "question": "What are the dislocation precautions for my hip (positions I should avoid)?",
+    "context": "[The goal of a hip replacement is to return your motion to the normal motion you had when your hip was healthy. In general you should avoid positions that you have never been able to do. If you have to reach the floor or fix your shoes always reach between your legs not to the outside. You should try to follow these rules for about 8 weeks. When you move your hip and feel resistance stop that is as far as you should go.]",
+    "answer": "You should avoid positions you couldn't do before, reach between your legs when bending, and follow these precautions for about 8 weeks.",
+    "LLM_answer": "The dislocation precautions for your hip depend on the surgical approach used. Here are the general guidelines:\\n\\n### Posterior Approach:\\n- Avoid hip flexion greater than 90 degrees.\\n- Avoid hip internal rotation or adduction beyond neutral.\\n- Do not combine the above motions.\\n\\n### Anterior Approach:\\n- Avoid hip extension or external rotation beyond neutral.\\n- No bridging or prone lying.\\n- When supine, keep the hip flexed at or above 30 degrees (use a pillow under the knee or raise the head of the bed).\\n\\n### Direct Anterior Approach:\\n- Avoid full bridging.\\n\\n### Lateral Approach:\\n- Follow hip abduction restrictions.\\n\\n### General Precautions:\\n- Avoid extreme positions in any direction.\\n- Avoid uncomfortable positions.\\n\\nIf you need more specific advice based on your surgical approach, please let me know."
+  },
+  {
+    "": "3",
+    "question": "Can I sleep on my side?",
+    "context": "[Yes.]",
+    "answer": "Yes, you can sleep on your side after hip replacement surgery.",
+    "LLM_answer": "After orthopedic surgery, it is generally advised to avoid sleeping directly on the operated side. Using a pillow between your knees can help decrease movement and provide support. Always follow specific instructions given by your surgeon or physical therapist."
+  },
+  {
+    "": "4",
+    "question": "How long will I be on pain medication?",
+    "context": "[Once the initial postoperative pain has subsided we recommend Acetaminophen (Tylenol) to be taken instead of the narcotic you have been provided. It is also okay to take an anti-inflammatory medication (NSAID) such as Advil ONLY after finishing the blood thinners. Remember you cannot drive while taking narcotic medications.]",
+    "answer": "After initial postoperative pain subsides, Acetaminophen (Tylenol) is recommended, and NSAIDs can be taken after finishing blood thinners. Avoid driving while on narcotic medications.",
+    "LLM_answer": "Patients often need to take narcotic pain medication for the first 4-6 weeks after orthopedic surgery. Most people can stop taking narcotics by four weeks post-operative. If pain persists beyond this period, you may be referred to the Pain Clinic or your Primary Care Provider for further management. Nonsteroidal anti-inflammatories (NSAIDs) and acetaminophen are also effective for managing postoperative pain."
+  },
+  {
+    "": "5",
+    "question": "Will I go to a rehabilitation facility or home?",
+    "context": "[We prefer our patients to go directly home after surgery. There may be special situations which require a rehabilitation facility depending on your social support structure.]",
+    "answer": "Patients are generally preferred to go directly home after surgery unless special situations require a rehabilitation facility.",
+    "LLM_answer": "The decision to discharge you to a rehabilitation facility or home depends on several factors:\\n\\n1. **Medical Stability**: You need to be hemodynamically stable.\\n2. **Mobility**: You should be able to mobilize independently or with a caregiver.\\n3. **Pain Management**: Your pain should be managed with oral medications.\\n\\n**Discharge to Home**:\\n- Most patients go directly home after discharge.\\n- You will likely receive home care visits from a nurse and a physical therapist.\\n- Home discharge is associated with fewer adverse events compared to discharge to a rehab facility.\\n\\n**Discharge to a Rehabilitation Facility**:\\n- This is considered if you are not strong enough to return home safely.\\n- It is based on medical necessity and safety at home.\\n- Insurance may not always cover the cost, and you might need to pay privately.\\n\\nYour physician and the unit social worker will discuss the best option for you based on your specific situation."
+  },
+  {
+    "": "6",
+    "question": "Do I need physical therapy?",
+    "context": "[Yes! The physical therapist plays a very important role in your recovery. You will see a physical therapist soon after your operation and throughout your stay in the hospital. If you go home you will likely have the therapist come to visit you (either as an evaluation or for more). Sometimes you will be referred to an outpatient physical therapist. If you go to a rehabilitation facility you will receive therapy there. Your therapist will help you walk regain motion build strength and help you reach your post-operative goals. Your therapist will keep your surgeon informed of your progress.]",
+    "answer": "Yes, physical therapy is essential for recovery. It helps regain motion, build strength, and achieve post-operative goals.",
+    "LLM_answer": "I can help with that. Could you please provide more details about your condition or the specific issue you're experiencing? This will help me give you a more accurate answer."
+  },
+  {
+    "": "7",
+    "question": "What exercises should I do?",
+    "context": "[You will be instructed by your physical therapist on appropriate exercises and given a list to follow. In general swimming (after 3 weeks) and a stationary bicycle are good exercise options. These exercises should be continued indefinitely even after your recovery is complete. You can begin using a stationary bike immediately; just make sure you keep the seat high.]",
+    "answer": "Exercises like swimming (after 3 weeks) and using a stationary bike (immediately, with a high seat) are recommended and should be continued indefinitely.",
+    "LLM_answer": "For orthopedic patients, a regular exercise program is essential to maintain fitness and muscle health around the joints. Here are some general recommendations:\\n\\n### Recommended Exercises:\\n1. **Range of Motion (ROM) and Flexibility:**\\n   - Perform daily ROM and stretching exercises.\\n\\n2. **Strengthening:**\\n   - Continue with all strengthening exercises, increasing resistance and decreasing repetitions.\\n\\n3. **Proprioception:**\\n   - Continue with all phase 3 exercises, increasing difficulty as tolerated.\\n\\n4. **Endurance:**\\n   - Engage in walking, biking, or using an elliptical machine.\\n\\n### Guidelines:\\n- Perform ROM and flexibility exercises daily.\\n- Perform strengthening and proprioception exercises 3-5 times per week, doing 2-3 sets of 10-15 repetitions.\\n- Continue endurance exercises for 30-45 minutes, 3 times per week.\\n\\n### Important Notes:\\n- Avoid high-impact activities like running and singles tennis.\\n- Avoid high-risk activities such as downhill skiing.\\n- Always consult with your orthopedic and primary care physicians before starting any exercise program.\\n\\nIf you need specific exercises tailored to your condition, please consult your physical therapist."
+  },
+  {
+    "": "8",
+    "question": "I think my leg lengths are different, what should I do?",
+    "context": "[It is not uncommon to feel as though your leg lengths are different. At surgery leg lengths are assessed very carefully and an attempt is made to make them as equal as possible. Sometimes the new hip has to be lengthened in order to obtain proper muscle tension (to help prevent a dislocation). Wait 3 months before making any final judgments about your leg lengths. Your muscles and body take time to adjust to a new hip. In rare cases a shoe lift may be prescribed for a true difference in leg lengths (do not use until instructed by your own surgeon). In most cases however no treatment is necessary.]",
+    "answer": "It's common to feel as though leg lengths are different. Wait 3 months before judging, as your body adjusts. In rare cases, a shoe lift may be prescribed.",
+    "LLM_answer": "You should schedule an appointment with an orthopedic specialist to evaluate your leg lengths. They can perform a physical examination and may order imaging tests to determine the extent of the discrepancy and recommend appropriate treatment options.\\n\\nWould you like me to help you book an appointment? If so, please provide your name."
+  },
+  {
+    "": "9",
+    "question": "Can I use weights?",
+    "context": "[Generally not for the first 6 weeks. However as everyone’s strength varies consult with your physical therapist before using weights. Use lightweights to begin with and gradually progress.]",
+    "answer": "Weights should generally not be used for the first 6 weeks. Consult with your physical therapist and begin with lightweights if approved.",
+    "LLM_answer": "The use of weights after orthopedic surgery depends on the specific procedure and the stage of recovery. Generally, during the initial phases of recovery, exercises with weights or resistance other than body weight are not recommended. It's important to follow the specific guidelines provided by your surgeon or physical therapist.\\n\\nFor more personalized advice, please consult with Dr. Lawrie or your physical therapist."
+  },
+  {
+    "": "10",
+    "question": "How long will I be on a blood thinner?",
+    "context": "[Typically you will be on a blood thinner for about 1 month. This medication is used to prevent blood clots. Be sure to check with your discharge instructions to confirm this regimen.]",
+    "answer": "You will typically be on a blood thinner for about 1 month.",
+    "LLM_answer": "You will need to take a blood thinner for two to six weeks, depending on your individual situation. Be sure to follow your surgeon's directions precisely. If you notice any unusual bleeding or unexplained bruises, contact your surgeon's office immediately."
+  },
+  {
+    "": "11",
+    "question": "What type of food should I eat?",
+    "context": "[You should resume your regular diet but should emphasize eating more protein for the first four weeks. Good sources of protein are low fat beef chicken eggs fish beans and nutritional shakes.]",
+    "answer": "Resume your regular diet with an emphasis on eating more protein (low fat beef, chicken, eggs, fish, beans, and nutritional shakes) for the first four weeks.",
+    "LLM_answer": "For orthopedic patients, a balanced diet rich in protein is essential to promote healing. Here are some key recommendations:\\n\\n1. **Protein Intake**: Increase protein consumption, especially in the first two weeks post-surgery. Good sources include meats, fish, peanut butter, and protein-rich powders, drinks, and shakes.\\n2. **Hydration**: Stay well-hydrated.\\n3. **Fruits**: Eat more fruits, such as prunes, to help with constipation, a common side effect of pain medication.\\n4. **Balanced Meals**: Focus on small, balanced meals to support overall recovery.\\n\\nIf you need more specific dietary advice tailored to your condition, please consult with your healthcare provider."
+  },
+  {
+    "": "12",
+    "question": "Can I go to the dentist?",
+    "context": "[You should avoid having any routine dental work for 12 weeks after surgery. After 12 weeks you can return to normal dental care.]",
+    "answer": "Avoid routine dental work for 12 weeks after surgery. After that, you can return to normal dental care.",
+    "LLM_answer": "If you have had a joint replacement or are at risk of infection, you should inform your dentist about your condition. You may need antibiotics before certain dental procedures to prevent infection. This is especially important within the first two years following your surgery. Please consult with your surgeon for specific guidelines."
+  },
+  {
+    "": "13",
+    "question": "If I am constipated, what should I do?",
+    "context": "[It is very common to have constipation after surgery. This may be due to a variety of factors but is especially common when taking narcotic pain medication. A simple over-the-counter stool softener (Colace) is the best prevention for this problem. In rare instances you may require a suppository or an enema.]",
+    "answer": "Constipation is common after surgery, especially when taking narcotics. Over-the-counter stool softeners like Colace are recommended. Rarely, a suppository or enema may be required.",
+    "LLM_answer": "To manage constipation, you can:\\n\\n1. **Increase Fluid Intake**: Drink plenty of water.\\n2. **Eat High-Fiber Foods**: Include fruits, vegetables, and whole grains in your diet.\\n3. **Stay Active**: Engage in regular physical activity.\\n4. **Reduce Opioid Use**: If possible, minimize the use of opioid medications.\\n5. **Use Laxatives**: If necessary, use over-the-counter laxatives or stool softeners as directed.\\n\\nIf symptoms persist, consult with a healthcare provider."
+  },
+  {
+    "": "14",
+    "question": "When can I drive?",
+    "context": "[If you had surgery on your right hip you should not drive for at least 1 week. After 1 week you may return to driving as you feel comfortable and safe. In some situations you may be safe to drive even sooner. If you had surgery on your left hip you may return to driving as you feel comfortable as long as you have an automatic transmission. DO NOT DRIVE IF TAKING NARCOTICS!]",
+    "answer": "If surgery was on the right hip, wait at least 1 week before driving. For left hip surgery, you can drive when comfortable, as long as you have an automatic transmission. Do not drive if taking narcotics.",
+    "LLM_answer": "You can generally drive 2-3 weeks after surgery if you are no longer taking any narcotic pain medications. If the surgery was on your left leg and you have an automatic transmission, you might be able to drive at two weeks. If the surgery was on your right leg, driving could be restricted for up to six weeks. Always confirm with your surgeon before resuming driving."
+  },
+  {
+    "": "15",
+    "question": "When can I return to work?",
+    "context": "[This depends on your profession. Typically if your work is primarily sedentary you may return after 2 to 4 weeks. If your work is more rigorous you may require 8 to 12 weeks before you can return to full duty. In some cases more time may be necessary.]",
+    "answer": "Return to work depends on your profession. For sedentary work, you may return after 2 to 4 weeks. For more rigorous work, 8 to 12 weeks may be required.",
+    "LLM_answer": "I can help with that. Could you please provide more details about your condition or the specific procedure you underwent? This will help me give you a more accurate answer."
+  },
+  {
+    "": "16",
+    "question": "When can I travel?",
+    "context": "[You may travel as soon as you feel comfortable. It is recommended that you get up to stretch or walk at least once an hour when taking long trips. This is important to help prevent blood clots.]",
+    "answer": "You can travel as soon as you feel comfortable, but it’s recommended to stretch or walk at least once an hour on long trips to prevent blood clots.",
+    "LLM_answer": "The timing for when you can travel after orthopedic surgery depends on several factors, including the type of surgery and your overall recovery progress. Generally, it is recommended to wait until you have had a follow-up visit with your surgeon, which is typically around 3 months after surgery. During this visit, your surgeon will assess your recovery and provide specific recommendations regarding travel.\\n\\nIf you have any specific concerns or need personalized advice, please consult with your surgeon directly."
+  },
+  {
+    "": "17",
+    "question": "Will I set off the machines at the airport? Do I need a doctor’s note to travel?",
+    "context": "[You will likely set off the airport security machine. You do not require a doctor’s note to show you have an artificial hip. Simply inform the security agent and you will likely require a separate screening.]",
+    "answer": "Yes, you will likely set off airport security machines. No doctor's note is needed. Inform the agent, and you may require a separate screening.",
+    "LLM_answer": "You may set off security alarms at airports due to your orthopedic implants. It is recommended to carry an implant card from your surgeon that states you had a joint replacement. This card can help explain the situation to security personnel.\\n\\nYou do not necessarily need a doctor's note to travel, but having the implant card is advisable. If you need an implant card, please let me know, and I can assist you in obtaining one."
+  },
+  {
+    "": "18",
+    "question": "What activities are permitted after surgery?",
+    "context": "[After 6 weeks you are permitted to perform low stress activities such as walking gardening swimming and cycling. After 12 weeks you are permitted to begin playing golf racquet sports and gentle skiing.]",
+    "answer": "After 6 weeks, you can engage in low-stress activities like walking, gardening, swimming, and cycling. After 12 weeks, golf, racquet sports, and gentle skiing are allowed.",
+    "LLM_answer": "After surgery, patients are generally encouraged to participate in low-impact activities such as:\\n\\n- Walking\\n- Dancing\\n- Golf\\n- Hiking\\n- Swimming\\n- Bowling\\n- Gardening\\n\\nHigh-impact activities like running, tennis, and basketball, as well as injury-prone sports such as downhill skiing, are not recommended. Always follow specific instructions provided by your surgeon and consult them if you have questions about other activities."
+  },
+  {
+    "": "19",
+    "question": "What activities should I avoid?",
+    "context": "[You should avoid impact activities such as running aggressive skiing; heavy weight lifting and other aggressive activities for the first 12 weeks. You should also avoid activities that involve heavy twisting movements like golf or bowling for the first 12 weeks. Then return as you feel comfortable.]",
+    "answer": "Avoid impact activities such as running, aggressive skiing, heavy weight lifting, and twisting movements like golf or bowling for the first 12 weeks.",
+    "LLM_answer": "After orthopedic surgery, you should avoid the following activities:\\n\\n1. **High-impact activities**: Running, tennis, basketball, and similar sports.\\n2. **Injury-prone sports**: Downhill skiing and other high-risk activities.\\n3. **Prolonged sitting**: Avoid sitting for more than 30 to 45 minutes at a time.\\n4. **Heavy lifting**: Do not lift heavy objects, especially if it requires squatting or bending.\\n5. **Driving**: Do not drive before your first post-op visit and until your surgeon approves.\\n\\nYou are encouraged to participate in low-impact activities such as walking, dancing, golf, hiking, swimming, bowling, and gardening. Always follow your surgeon's specific instructions and precautions."
+  },
+  {
+    "": "20",
+    "question": "Can I have sex?",
+    "context": "[You should wait several weeks after surgery before resuming sexual intercourse until you feel comfortable. Avoid extremes of motion. Having your legs apart is a safe position.]",
+    "answer": "Wait several weeks after surgery before resuming sexual activity. Avoid extreme motions, and having your legs apart is a safe position.",
+    "LLM_answer": "Could you please provide more details about your condition or treatment so I can give you a more accurate answer?"
+  },
+  {
+    "": "21",
+    "question": "Can I drink alcohol?",
+    "context": "[While on blood thinners you should avoid alcohol. You should also avoid alcohol while taking narcotics.]",
+    "answer": "Avoid alcohol while taking blood thinners or narcotics.",
+    "LLM_answer": "Alcohol consumption can affect your recovery and may lead to complications, especially if you are undergoing surgery. It is important to be honest with your healthcare providers about your alcohol use to determine if you are at risk for alcohol withdrawal or other alcohol-related problems that could affect your recovery.\\n\\nFor specific guidelines related to your condition or upcoming procedures, please consult directly with Dr. Lawrie or your healthcare provider."
+  },
+  {
+    "": "22",
+    "question": "Should I use ice or heat?",
+    "context": "[Ice should be used for the first several days to help with pain and swelling. We do not recommend using heat.]",
+    "answer": "Use ice for the first few days to reduce pain and swelling. Heat is not recommended.",
+    "LLM_answer": "Could you please provide more details about the condition or injury you're referring to? This will help me give you the most accurate advice."
+  },
+  {
+    "": "23",
+    "question": "Can I use stairs?",
+    "context": "[Yes. Initially you will lead with your non-operated leg when going up stairs and lead with your operated leg when going down stairs. Remember “Up with the good, down with the bad.” After about 4 weeks you should begin using the stairs more normally.]",
+    "answer": "Yes, initially lead with your non-operated leg when going up stairs and your operated leg when going down. After about 4 weeks, you can begin using stairs normally.",
+    "LLM_answer": "Yes, you can use stairs after orthopedic surgery, but you need to follow specific guidelines:\\n\\n- **Going Up Stairs**: Use crutches or a cane in one hand and hold onto the railing with the other. Support your weight evenly, lift your non-operated leg onto the step, then bring your operated leg up, followed by the crutches or cane. If there's no railing, use crutches in both arms.\\n\\n- **Going Down Stairs**: Use crutches or a cane in one hand and hold onto the railing with the other. Lower the crutches or cane onto the step below, support your weight evenly, bring down your operated leg, and then lower your non-operated leg. If there's no railing, use crutches in both arms.\\n\\nYour physical therapist will teach you how to properly go up and down stairs before you are discharged."
+  },
+  {
+    "": "24",
+    "question": "Can I kneel?",
+    "context": "[Yes. To kneel, touch down with the knee of your operated leg first. To arise from kneeling, use your non-operative leg first.]",
+    "answer": "Yes, when kneeling, touch down with the knee of your operated leg first. Use your non-operative leg to get up.",
+    "LLM_answer": "After knee surgery, it is generally advised not to kneel or squat. This precaution helps ensure proper healing and prevents potential complications. Always follow the specific guidelines provided by your surgeon and physical therapist. If you have any concerns or need personalized advice, please consult your healthcare provider."
+  },
+  {
+    "": "25",
+    "question": "I feel depressed – is this normal?",
+    "context": "[It is not uncommon to have feelings of depression after your hip replacement. This may be due to a variety of factors such as limited mobility discomfort increased dependency on others and/or medication side effects. Feelings of depression will typically fade as you begin to return to your regular activities. If your feelings of depression persist consult your internist.]",
+    "answer": "It is common to feel depressed after hip replacement due to factors like limited mobility and discomfort. Depression usually fades as regular activities resume. Consult a doctor if it persists.",
+    "LLM_answer": "I'm sorry to hear that you're feeling this way. It's not uncommon for people to experience feelings of depression, especially when dealing with health issues. However, it's important to address these feelings with a healthcare professional who can provide the appropriate support and treatment.\\n\\nWould you like me to help you schedule an appointment with a mental health professional?"
+  },
+  {
+    "": "26",
+    "question": "I have insomnia – is this normal?",
+    "context": "[Difficulty sleeping is a very common complaint following hip surgery. Non-prescription remedies such as Benadryl or melatonin may be effective. If this continues to be a problem medication may be prescribed for you.]",
+    "answer": "Yes, insomnia is common after surgery. Non-prescription remedies like Benadryl or melatonin may help. Consult your doctor if the problem persists.",
+    "LLM_answer": "Yes, experiencing insomnia after orthopedic surgery can be normal. Patients with chronic pain often suffer from insomnia, exhaustion, and depression, which are indicators of preoperative stress and can continue post-surgery. If you have concerns, please discuss them with your healthcare provider for personalized advice and management."
+  },
+  {
+    "": "27",
+    "question": "What can I do about my scar?",
+    "context": "[Most hip scars eventually become minor. If you feel hardness this may be to a suture dissolving underneath. After 3 weeks and the wound is not draining you can take some Vitamin E cream and begin some gentle massage to the wound. Avoid direct sun to the wound for 6 months to prevent darkening of the scar.]",
+    "answer": "Hip scars usually become minor over time. After 3 weeks, if there is no drainage, use Vitamin E cream and gently massage the wound. Avoid direct sunlight for 6 months to prevent darkening.",
+    "LLM_answer": "For scar treatment, consider the following options:\\n\\n1. **Scar Massage**: Begin scar massage after the incision has healed and the scar is formed. This helps prevent subcutaneous adhesion.\\n2. **Avoid Lotions**: Do not use lotions for 3-4 weeks after surgery.\\n3. **Cryotherapy**: Use cold with compression/elevation to control acute pain and inflammation.\\n\\nIf you need more personalized advice, please consult with your physician."
+  },
+  {
+    "": "28",
+    "question": "How long will my hip replacement last?",
+    "context": "[This varies from patient to patient. For each year following your hip replacement you have a 0.5 to 1% chance of requiring additional surgery. For example at 10 years post operatively there is a 90-95% success rate.]",
+    "answer": "Hip replacements have a 90-95% success rate at 10 years, with a 0.5 to 1% chance of needing additional surgery each year.",
+    "LLM_answer": "Hip replacements typically last between 15 to 20 years. However, the longevity can vary based on factors such as the patient's activity level, weight, and overall health. Regular follow-ups and maintaining a healthy lifestyle can help maximize the lifespan of the hip replacement."
+  },
+  {
+    "": "29",
+    "question": "When should I follow up with my surgeon?",
+    "context": "[Follow-up appointments beyond the initial postoperative period should be made at 1 year 5 years and every 5 years after that.]",
+    "answer": "Follow-up appointments are recommended at 1 year, 5 years, and every 5 years after that.",
+    "LLM_answer": "You should follow up with your surgeon:\\n\\n1. **Three months after surgery** for a routine check-up.\\n2. **Six months after surgery** and then annually, unless instructed otherwise.\\n3. **Anytime you experience mild pain for more than a week**.\\n4. **Anytime you have moderate or severe pain**.\\n\\nRegular follow-ups are important to monitor the integrity of any surgical materials and to detect potential issues early. If you're unsure about your next appointment, please contact your orthopedist."
+  },
+  {
+    "": "30",
+    "question": "What should I do if I have an emergency or problem?",
+    "context": "[Call the office; we can always get in touch with the doctor: (786)268-6200 Coral Gables (786)596-8020 Kendall Office]",
+    "answer": "Call the office in case of an emergency. The contact numbers are (786)268-6200 for Coral Gables and (786)596-8020 for Kendall Office.",
+    "LLM_answer": "In case of an emergency or problem, follow these steps:\\n\\n1. **Life-Threatening Situations**: Call 911 immediately if you have chest pain, shortness of breath, or any other life-threatening symptoms.\\n2. **Emergency Room**: Go to the nearest emergency room if you have severe symptoms that need urgent care.\\n3. **Contact Your Doctor or Nurse**: Call your doctor or nurse if you experience:\\n   - Fever greater than 101°F (38.3°C)\\n   - Increased pain, redness, swelling, or drainage at the incision site\\n   - Calf pain, tenderness, or swelling\\n   - Any other concerning symptoms\\n\\nFor non-urgent issues, you can also contact the nurse navigator line for guidance."
+  },
+  {
+    "": "31",
+    "question": "What are normal things about your new hip?",
+    "context": "[Normal things about your new hip: Clicking noise with hip motion Skin numbness near or around your incision Swelling around hip knee and/or lower leg Warmth around hip 'Pins and needles' feeling at or near incision Dark or red incision line Increased bruising while on blood thinner]",
+    "answer": "Normal things after hip replacement include clicking noises, numbness, swelling, warmth, 'pins and needles' feeling, dark incision lines, and increased bruising while on blood thinners.",
+    "LLM_answer": "Here are some normal things to expect after a hip replacement:\\n\\n1. **Swelling and Redness**: Some swelling and redness at the incision site is normal and may gradually improve for up to three months.\\n2. **Leg Length**: The operated leg may feel longer than the non-operated leg due to tight muscles. This usually resolves within 6-8 weeks.\\n3. **Activity Restrictions**: High-impact activities like running and tennis are not recommended. Low-impact activities such as walking, swimming, and golf are encouraged.\\n4. **Follow-Up Visits**: Initial follow-up is typically 10-14 days post-discharge, with subsequent visits depending on progress.\\n5. **Sexual Intercourse**: Discuss with your orthopedic physician when it is safe to resume sexual activity.\\n\\nIf you have any specific concerns, please consult with your surgeon."
+  },
+  {
+    "": "32",
+    "question": "What are abnormal things that require immediate attention?",
+    "context": "[Abnormal things (call the office immediately): Increasing redness from the incision Increasing pain and swelling Fevers more than 101.5 F Persistent drainage lasting beyond 3 days Calf pain or swelling Inability to put weight on your leg Bleeding gums or blood in urine or stool]",
+    "answer": "Abnormal signs include increasing redness, pain, swelling, fevers above 101.5 F, drainage beyond 3 days, calf pain, inability to put weight on your leg, or bleeding gums/urine/stool. Call the office immediately if these occur.",
+    "LLM_answer": "Abnormal conditions that require immediate attention include:\\n\\n1. **Deep Vein Thrombosis (DVT) Symptoms:**\\n   - Swelling in the calf or thigh area\\n   - Pain in the calf area or behind the knee\\n   - Increased pain with standing or walking\\n   - Warmth, redness, or tenderness in the affected area\\n   - Low-grade fever\\n\\n2. **Pulmonary Embolism (PE) Symptoms:**\\n   - Sudden onset of chest pain\\n   - Sudden unexplained cough or coughing up blood\\n   - Shortness of breath\\n   - Lightheadedness, dizziness, or cold sweats\\n   - Feelings of restlessness, anxiety, or rapid heartbeat\\n   - Sense of impending doom\\n\\n3. **Peripheral Nerve Block Complications:**\\n   - Persistent quadriceps weakness\\n   - Signs of neural injury (e.g., paresthesia, motor weakness)\\n   - Hematoma or severe bleeding at the catheter insertion site\\n   - Signs of infection at the insertion site\\n\\nIf any of these symptoms are observed, immediate medical attention is required."
+  }
+]
