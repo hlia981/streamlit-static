@@ -1,3 +1,5 @@
+import time
+
 import streamlit as st
 import pandas as pd
 import pickle
@@ -95,15 +97,21 @@ if os.path.exists(pickle_file):
                     "Recommend your answer here (if any)",
                     value=st.session_state.ratings[current_idx]['comment']
                 )
-
-                # Submit button inside the form
-                submitted = st.form_submit_button("Submit", type='primary')
+                cola, colb = st.columns(2)
+                with cola:
+                    # Submit button inside the form
+                    submitted = st.form_submit_button("Submit", type='primary')
+                with colb:
+                    st.write("Click submit to save your rating!")
 
                 if submitted:
                     # Save the current rating and comment in the session state when form is submitted
                     st.session_state.ratings[current_idx]['rating'] = rating
                     st.session_state.ratings[current_idx]['comment'] = comment
-                    st.success("Rating and comment saved!")
+                    st.success("Rating and comment saved! Loading next question .....")
+                    time.sleep(1)
+                    st.session_state.current_idx += 1
+                    st.rerun()
 
             # Navigation buttons
             col1, col2, col3 = st.columns(3)
@@ -122,10 +130,10 @@ if os.path.exists(pickle_file):
 
             # Check if we've gone through all rows and show the download button
             if st.session_state.current_idx >= total_rows - 1 and st.button("Finish", type='primary'):
-                st.success("You've rated all answers! Thank you.")
+                st.success("You've rated all answers! Thank you. Please download the records.")
                 ratings_df = pd.DataFrame(st.session_state.ratings)
                 # ratings_df.to_csv('ratings_autosave.csv')
-                st.write(ratings_df)
+                st.dataframe(ratings_df, width=750)
                 st.download_button("Download Ratings", ratings_df.to_csv(index=False), "ratings.csv")
         else:
             st.success("You've rated all the rows. Thank you!")
