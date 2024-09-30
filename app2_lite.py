@@ -12,7 +12,7 @@ def load_data(json_file):
     sampled_df = _df.sample(frac=1).reset_index(drop=True)
     return sampled_df
 
-
+st.set_page_config(initial_sidebar_state="expanded")
 pickle_file = 'FAQ-THA.json'
 # st.set_page_config(layout="wide")
 # Load the dataframe
