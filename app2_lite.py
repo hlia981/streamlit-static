@@ -63,6 +63,7 @@ if os.path.exists(pickle_file):
                 except TypeError:
                     context_string = "No context available as Chatbot didn't query the database"
                 expander1.write(context_string)
+                st.caption("@Fios Health")
 
             # Display progress
             st.progress((current_idx + 1) / total_rows)
