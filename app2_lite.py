@@ -13,7 +13,7 @@ def load_data(json_file):
     return sampled_df
 
 st.set_page_config(initial_sidebar_state="expanded")
-pickle_file = 'FAQ-THA.json'
+pickle_file = 'FAQ-THA-100.json'
 # st.set_page_config(layout="wide")
 # Load the dataframe
 st.title("Medical Chatbot Answer Rating")
