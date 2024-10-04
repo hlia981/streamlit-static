@@ -9,8 +9,8 @@ import os
 def load_data(json_file):
     _df = pd.read_json(json_file)
     _df = _df.fillna(0)
-    sampled_df = _df.sample(frac=1).reset_index(drop=True)
-    return sampled_df
+    # sampled_df = _df.sample(frac=1).reset_index(drop=True)
+    return _df
 
 
 pickle_file = 'FAQ-THA-100.json'
