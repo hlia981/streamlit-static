@@ -12,8 +12,9 @@ def load_data(json_file):
     sampled_df = _df.sample(frac=1).reset_index(drop=True)
     return sampled_df
 
-st.set_page_config(initial_sidebar_state="expanded")
+
 pickle_file = 'FAQ-THA-100.json'
+st.set_page_config(initial_sidebar_state="expanded")
 # st.set_page_config(layout="wide")
 # Load the dataframe
 st.title("Medical Chatbot Answer Rating")
@@ -52,6 +53,12 @@ if os.path.exists(pickle_file):
 
             with st.sidebar:
                 st.subheader(f"Question: {current_idx + 1}")
+                print(row['search_term'])
+                print(type(row['search_term']))
+                if row['search_term'] == 0:
+                    st.subheader(f"LLM query database? :red[:material/close:]")
+                else:
+                    st.subheader(f"LLM query database? :green[:material/check:]")
                 st.progress(row['faithfulness'], text="Accuracy of answer to context:")
                 st.progress(row['answer_relevancy'], text="Relatedness to the question:")
                 st.progress(row['context_recall'], text="Amount of relevant info retrieved:")
@@ -63,6 +70,7 @@ if os.path.exists(pickle_file):
                 except TypeError:
                     context_string = "No context available as Chatbot didn't query the database"
                 expander1.write(context_string)
+
                 st.caption("@Fios Health")
 
             # Display progress
@@ -84,16 +92,6 @@ if os.path.exists(pickle_file):
 
             st.subheader(":green[Chatbot's Answer]")
             answer = row['LLM_answer'].replace('\\n', '\n')
-
-            # st.write("")
-            # co1, co2 = st.columns(2)
-
-            # expander1 = st.expander("Expand Context")
-            # try:
-            #     context_string = "".join(row['contexts'])
-            # except TypeError:
-            #     context_string = "No context available as Chatbot didn't query the database"
-            # expander1.write(context_string)
 
             expander2 = st.expander("Expand Chatbot Answer", expanded=True)
             expander2.write(answer)
